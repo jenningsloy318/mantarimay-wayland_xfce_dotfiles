@@ -1,2 +1,2 @@
 # Dotfiles
-My current dotfiles for wayland
+My current dotfiles on wayland
